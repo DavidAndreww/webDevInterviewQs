@@ -7,7 +7,7 @@ function App() {
       ya better not snooze<br/>
       you got nothing to lose<br/>
       on this opportuze<br/>
-      <h3>SIGN UP TODAY!</h3>
+      <h3>SIGN UP TODAY! or youll be gay, but thats okay! </h3>
       <button>$199<sup>99</sup></button>
     </div>
   );
