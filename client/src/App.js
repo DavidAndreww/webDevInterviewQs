@@ -1,9 +1,10 @@
 import React from 'react';
 import Nav from './components/nav'
 
+
 function App() {
   return (
-    <div>
+    <div className='appRoot'>
       <Nav/>
     </div>
   );

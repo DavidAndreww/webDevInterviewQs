@@ -14,7 +14,9 @@ import Button from '@material-ui/core/Button';
 
 const useStyles = makeStyles((theme) => ({
   grow: {
-    flexGrow: 1,
+		flexGrow: 1,
+		backgroundColor: '#BBBE64',
+		height: 40
   },
   menuButton: {
     marginRight: theme.spacing(2),
@@ -26,9 +28,11 @@ const useStyles = makeStyles((theme) => ({
     },
   },
   sectionDesktop: {
-    display: 'none',
+		display: 'none',
+		backgroundColor: '#BBBE64',
     [theme.breakpoints.up('md')]: {
-      display: 'flex',
+			display: 'flex',
+			backgroundColor: '#BBBE64',
     },
   },
   sectionMobile: {
